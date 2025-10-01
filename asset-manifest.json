@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.abb7b446.css",
-    "main.js": "/static/js/main.8fd392bd.js",
-    "static/js/453.2e3c5021.chunk.js": "/static/js/453.2e3c5021.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.abb7b446.css.map": "/static/css/main.abb7b446.css.map",
-    "main.8fd392bd.js.map": "/static/js/main.8fd392bd.js.map",
-    "453.2e3c5021.chunk.js.map": "/static/js/453.2e3c5021.chunk.js.map"
+    "main.css": "/nanshan/static/css/main.abb7b446.css",
+    "main.js": "/nanshan/static/js/main.5bf7e5e6.js",
+    "static/js/453.531b8454.chunk.js": "/nanshan/static/js/453.531b8454.chunk.js",
+    "static/media/logo.svg": "/nanshan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nanshan/index.html",
+    "main.abb7b446.css.map": "/nanshan/static/css/main.abb7b446.css.map",
+    "main.5bf7e5e6.js.map": "/nanshan/static/js/main.5bf7e5e6.js.map",
+    "453.531b8454.chunk.js.map": "/nanshan/static/js/453.531b8454.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abb7b446.css",
-    "static/js/main.8fd392bd.js"
+    "static/js/main.5bf7e5e6.js"
   ]
 }
