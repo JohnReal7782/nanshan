@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/nanshan/static/css/main.abb7b446.css",
-    "main.js": "/nanshan/static/js/main.5bf7e5e6.js",
-    "static/js/453.531b8454.chunk.js": "/nanshan/static/js/453.531b8454.chunk.js",
-    "static/media/logo.svg": "/nanshan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/nanshan/static/css/main.c232e2af.css",
+    "main.js": "/nanshan/static/js/main.75b0f986.js",
     "index.html": "/nanshan/index.html",
-    "main.abb7b446.css.map": "/nanshan/static/css/main.abb7b446.css.map",
-    "main.5bf7e5e6.js.map": "/nanshan/static/js/main.5bf7e5e6.js.map",
-    "453.531b8454.chunk.js.map": "/nanshan/static/js/453.531b8454.chunk.js.map"
+    "main.c232e2af.css.map": "/nanshan/static/css/main.c232e2af.css.map",
+    "main.75b0f986.js.map": "/nanshan/static/js/main.75b0f986.js.map"
   },
   "entrypoints": [
-    "static/css/main.abb7b446.css",
-    "static/js/main.5bf7e5e6.js"
+    "static/css/main.c232e2af.css",
+    "static/js/main.75b0f986.js"
   ]
 }
